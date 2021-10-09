@@ -6,7 +6,10 @@
 #define TRAININGPROJECT_MAIN_H
 
 
-class Main {
+#include "player.h"
+
+class main {
+
 };
 
 

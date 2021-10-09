@@ -82,10 +82,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Main.cpp">
+		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/main.cpp">
 			<Option target="TrainingProject"/>
 		</Unit>
-		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Main.h">
+		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/main.h">
+			<Option target="TrainingProject"/>
+		</Unit>
+		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.cpp">
+			<Option target="TrainingProject"/>
+		</Unit>
+		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.h">
+			<Option target="TrainingProject"/>
+		</Unit>
+		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.cpp">
+			<Option target="TrainingProject"/>
+		</Unit>
+		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.h">
 			<Option target="TrainingProject"/>
 		</Unit>
 		<Unit filename="C:/Users/YASSINE/CLionProjects/TrainingProject/CMakeLists.txt">
