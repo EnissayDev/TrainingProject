@@ -3,14 +3,16 @@ project(TrainingProject)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(Headers player.h)
+set(Headers Player.h)
 
 include_directories(Enissay)
 
 add_executable(TrainingProject
-        Enissay/main.cpp
-        Enissay/main.h
-        Enissay/player.cpp
-        Enissay/player.h
-        Enissay/playermanager.cpp
-        Enissay/playermanager.h)
+        Enissay/Main.cpp
+        Enissay/Main.h
+        Enissay/Player.cpp
+        Enissay/Player.h
+        Enissay/PlayerManager.cpp
+        Enissay/PlayerManager.h
+        Enissay/PlayerType.h
+        Enissay/Item.h)

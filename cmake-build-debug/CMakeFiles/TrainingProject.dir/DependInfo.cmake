@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/main.cpp" "C:/Users/YASSINE/CLionProjects/TrainingProject/cmake-build-debug/CMakeFiles/TrainingProject.dir/Enissay/main.cpp.obj"
-  "C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.cpp" "C:/Users/YASSINE/CLionProjects/TrainingProject/cmake-build-debug/CMakeFiles/TrainingProject.dir/Enissay/player.cpp.obj"
-  "C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.cpp" "C:/Users/YASSINE/CLionProjects/TrainingProject/cmake-build-debug/CMakeFiles/TrainingProject.dir/Enissay/playermanager.cpp.obj"
+  "C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Main.cpp" "C:/Users/YASSINE/CLionProjects/TrainingProject/cmake-build-debug/CMakeFiles/TrainingProject.dir/Enissay/main.cpp.obj"
+  "C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Player.cpp" "C:/Users/YASSINE/CLionProjects/TrainingProject/cmake-build-debug/CMakeFiles/TrainingProject.dir/Enissay/player.cpp.obj"
+  "C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/PlayerManager.cpp" "C:/Users/YASSINE/CLionProjects/TrainingProject/cmake-build-debug/CMakeFiles/TrainingProject.dir/Enissay/playermanager.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

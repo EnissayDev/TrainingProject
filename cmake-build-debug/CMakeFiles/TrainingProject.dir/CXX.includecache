@@ -6,35 +6,43 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/main.cpp
-main.h
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/main.h
-player.h
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.h
-playermanager.h
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Item.h
+string
+-
+
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Main.cpp
+Main.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Main.h
+Player.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Player.h
+PlayerManager.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/PlayerManager.h
+Item.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Item.h
 iostream
 -
 string
 -
 
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/main.h
-player.h
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Main.h
+Player.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Player.h
 
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Player.h
 string
 -
+list
+-
+PlayerType.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/PlayerType.h
+Item.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Item.h
 
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.cpp
-playermanager.h
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/PlayerManager.h
+Player.h
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/Player.h
 list
 -
 
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/playermanager.h
-player.h
-C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/player.h
-list
--
+C:/Users/YASSINE/CLionProjects/TrainingProject/Enissay/PlayerType.h
 

@@ -55,75 +55,75 @@ include CMakeFiles\TrainingProject.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\TrainingProject.dir\flags.make
 
-CMakeFiles\TrainingProject.dir\Enissay\main.cpp.obj: CMakeFiles\TrainingProject.dir\flags.make
-CMakeFiles\TrainingProject.dir\Enissay\main.cpp.obj: ..\Enissay\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TrainingProject.dir/Enissay/main.cpp.obj"
+CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.obj: CMakeFiles\TrainingProject.dir\flags.make
+CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.obj: ..\Enissay\Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TrainingProject.dir/Enissay/Main.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TrainingProject.dir\Enissay\main.cpp.obj /FdCMakeFiles\TrainingProject.dir\ /FS -c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TrainingProject.dir\Enissay\Main.cpp.obj /FdCMakeFiles\TrainingProject.dir\ /FS -c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\Main.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrainingProject.dir/Enissay/main.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\TrainingProject.dir\Enissay\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\main.cpp
+CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrainingProject.dir/Enissay/Main.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\Main.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrainingProject.dir/Enissay/main.cpp.s"
+CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrainingProject.dir/Enissay/Main.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TrainingProject.dir\Enissay\main.cpp.s /c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TrainingProject.dir\Enissay\Main.cpp.s /c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\Main.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\player.cpp.obj: CMakeFiles\TrainingProject.dir\flags.make
-CMakeFiles\TrainingProject.dir\Enissay\player.cpp.obj: ..\Enissay\player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TrainingProject.dir/Enissay/player.cpp.obj"
+CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.obj: CMakeFiles\TrainingProject.dir\flags.make
+CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.obj: ..\Enissay\Player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TrainingProject.dir/Enissay/Player.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TrainingProject.dir\Enissay\player.cpp.obj /FdCMakeFiles\TrainingProject.dir\ /FS -c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\player.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TrainingProject.dir\Enissay\Player.cpp.obj /FdCMakeFiles\TrainingProject.dir\ /FS -c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\Player.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\player.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrainingProject.dir/Enissay/player.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\TrainingProject.dir\Enissay\player.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\player.cpp
+CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrainingProject.dir/Enissay/Player.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\Player.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\player.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrainingProject.dir/Enissay/player.cpp.s"
+CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrainingProject.dir/Enissay/Player.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TrainingProject.dir\Enissay\player.cpp.s /c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\player.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TrainingProject.dir\Enissay\Player.cpp.s /c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\Player.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.obj: CMakeFiles\TrainingProject.dir\flags.make
-CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.obj: ..\Enissay\playermanager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TrainingProject.dir/Enissay/playermanager.cpp.obj"
+CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.obj: CMakeFiles\TrainingProject.dir\flags.make
+CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.obj: ..\Enissay\PlayerManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TrainingProject.dir/Enissay/PlayerManager.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.obj /FdCMakeFiles\TrainingProject.dir\ /FS -c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\playermanager.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.obj /FdCMakeFiles\TrainingProject.dir\ /FS -c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\PlayerManager.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrainingProject.dir/Enissay/playermanager.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\playermanager.cpp
+CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrainingProject.dir/Enissay/PlayerManager.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\PlayerManager.cpp
 <<
 
-CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrainingProject.dir/Enissay/playermanager.cpp.s"
+CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrainingProject.dir/Enissay/PlayerManager.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\BUILDT~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.s /c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\playermanager.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.s /c C:\Users\YASSINE\CLionProjects\TrainingProject\Enissay\PlayerManager.cpp
 <<
 
 # Object files for target TrainingProject
 TrainingProject_OBJECTS = \
-"CMakeFiles\TrainingProject.dir\Enissay\main.cpp.obj" \
-"CMakeFiles\TrainingProject.dir\Enissay\player.cpp.obj" \
-"CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.obj"
+"CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.obj" \
+"CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.obj" \
+"CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.obj"
 
 # External object files for target TrainingProject
 TrainingProject_EXTERNAL_OBJECTS =
 
-TrainingProject.exe: CMakeFiles\TrainingProject.dir\Enissay\main.cpp.obj
-TrainingProject.exe: CMakeFiles\TrainingProject.dir\Enissay\player.cpp.obj
-TrainingProject.exe: CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.obj
+TrainingProject.exe: CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.obj
+TrainingProject.exe: CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.obj
+TrainingProject.exe: CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.obj
 TrainingProject.exe: CMakeFiles\TrainingProject.dir\build.make
 TrainingProject.exe: CMakeFiles\TrainingProject.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\YASSINE\CLionProjects\TrainingProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable TrainingProject.exe"

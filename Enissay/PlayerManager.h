@@ -5,19 +5,19 @@
 #ifndef TRAININGPROJECT_PLAYERMANAGER_H
 #define TRAININGPROJECT_PLAYERMANAGER_H
 
-#include "player.h"
+#include "Player.h"
 #include <list>
 
 using String = std::string;
 
-class playermanager {
+class PlayerManager {
 
 private:
-    //static std::list<player> playersList;
+    //static std::list<Player> playersList;
 
 public:
-    //static std::list<player> getPlayersList();
-    static player createPlayer(String username, int id);
+    //static std::list<Player> getPlayersList();
+    static Player createPlayer(const String username, const int id, const PlayerType playerType);
 };
 
 #endif //TRAININGPROJECT_PLAYERMANAGER_H

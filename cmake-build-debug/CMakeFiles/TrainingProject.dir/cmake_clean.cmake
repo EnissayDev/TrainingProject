@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TrainingProject.dir/Enissay/main.cpp.obj"
-  "CMakeFiles/TrainingProject.dir/Enissay/player.cpp.obj"
-  "CMakeFiles/TrainingProject.dir/Enissay/playermanager.cpp.obj"
+  "CMakeFiles/TrainingProject.dir/Enissay/Main.cpp.obj"
+  "CMakeFiles/TrainingProject.dir/Enissay/Player.cpp.obj"
+  "CMakeFiles/TrainingProject.dir/Enissay/PlayerManager.cpp.obj"
   "TrainingProject.exe"
   "TrainingProject.exe.manifest"
   "TrainingProject.lib"

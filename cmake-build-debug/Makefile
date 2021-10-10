@@ -118,77 +118,77 @@ TrainingProject\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\build
 .PHONY : TrainingProject\fast
 
-Enissay\main.obj: Enissay\main.cpp.obj
-.PHONY : Enissay\main.obj
+Enissay\Main.obj: Enissay\Main.cpp.obj
+.PHONY : Enissay\Main.obj
 
 # target to build an object file
-Enissay\main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\main.cpp.obj
-.PHONY : Enissay\main.cpp.obj
+Enissay\Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.obj
+.PHONY : Enissay\Main.cpp.obj
 
-Enissay\main.i: Enissay\main.cpp.i
-.PHONY : Enissay\main.i
+Enissay\Main.i: Enissay\Main.cpp.i
+.PHONY : Enissay\Main.i
 
 # target to preprocess a source file
-Enissay\main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\main.cpp.i
-.PHONY : Enissay\main.cpp.i
+Enissay\Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.i
+.PHONY : Enissay\Main.cpp.i
 
-Enissay\main.s: Enissay\main.cpp.s
-.PHONY : Enissay\main.s
+Enissay\Main.s: Enissay\Main.cpp.s
+.PHONY : Enissay\Main.s
 
 # target to generate assembly for a file
-Enissay\main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\main.cpp.s
-.PHONY : Enissay\main.cpp.s
+Enissay\Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\Main.cpp.s
+.PHONY : Enissay\Main.cpp.s
 
-Enissay\player.obj: Enissay\player.cpp.obj
-.PHONY : Enissay\player.obj
+Enissay\Player.obj: Enissay\Player.cpp.obj
+.PHONY : Enissay\Player.obj
 
 # target to build an object file
-Enissay\player.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\player.cpp.obj
-.PHONY : Enissay\player.cpp.obj
+Enissay\Player.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.obj
+.PHONY : Enissay\Player.cpp.obj
 
-Enissay\player.i: Enissay\player.cpp.i
-.PHONY : Enissay\player.i
+Enissay\Player.i: Enissay\Player.cpp.i
+.PHONY : Enissay\Player.i
 
 # target to preprocess a source file
-Enissay\player.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\player.cpp.i
-.PHONY : Enissay\player.cpp.i
+Enissay\Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.i
+.PHONY : Enissay\Player.cpp.i
 
-Enissay\player.s: Enissay\player.cpp.s
-.PHONY : Enissay\player.s
+Enissay\Player.s: Enissay\Player.cpp.s
+.PHONY : Enissay\Player.s
 
 # target to generate assembly for a file
-Enissay\player.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\player.cpp.s
-.PHONY : Enissay\player.cpp.s
+Enissay\Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\Player.cpp.s
+.PHONY : Enissay\Player.cpp.s
 
-Enissay\playermanager.obj: Enissay\playermanager.cpp.obj
-.PHONY : Enissay\playermanager.obj
+Enissay\PlayerManager.obj: Enissay\PlayerManager.cpp.obj
+.PHONY : Enissay\PlayerManager.obj
 
 # target to build an object file
-Enissay\playermanager.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.obj
-.PHONY : Enissay\playermanager.cpp.obj
+Enissay\PlayerManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.obj
+.PHONY : Enissay\PlayerManager.cpp.obj
 
-Enissay\playermanager.i: Enissay\playermanager.cpp.i
-.PHONY : Enissay\playermanager.i
+Enissay\PlayerManager.i: Enissay\PlayerManager.cpp.i
+.PHONY : Enissay\PlayerManager.i
 
 # target to preprocess a source file
-Enissay\playermanager.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.i
-.PHONY : Enissay\playermanager.cpp.i
+Enissay\PlayerManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.i
+.PHONY : Enissay\PlayerManager.cpp.i
 
-Enissay\playermanager.s: Enissay\playermanager.cpp.s
-.PHONY : Enissay\playermanager.s
+Enissay\PlayerManager.s: Enissay\PlayerManager.cpp.s
+.PHONY : Enissay\PlayerManager.s
 
 # target to generate assembly for a file
-Enissay\playermanager.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\playermanager.cpp.s
-.PHONY : Enissay\playermanager.cpp.s
+Enissay\PlayerManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TrainingProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TrainingProject.dir\Enissay\PlayerManager.cpp.s
+.PHONY : Enissay\PlayerManager.cpp.s
 
 # Help Target
 help:
@@ -199,15 +199,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... TrainingProject
-	@echo ... Enissay/main.obj
-	@echo ... Enissay/main.i
-	@echo ... Enissay/main.s
-	@echo ... Enissay/player.obj
-	@echo ... Enissay/player.i
-	@echo ... Enissay/player.s
-	@echo ... Enissay/playermanager.obj
-	@echo ... Enissay/playermanager.i
-	@echo ... Enissay/playermanager.s
+	@echo ... Enissay/Main.obj
+	@echo ... Enissay/Main.i
+	@echo ... Enissay/Main.s
+	@echo ... Enissay/Player.obj
+	@echo ... Enissay/Player.i
+	@echo ... Enissay/Player.s
+	@echo ... Enissay/PlayerManager.obj
+	@echo ... Enissay/PlayerManager.i
+	@echo ... Enissay/PlayerManager.s
 .PHONY : help
 
 
